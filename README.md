@@ -3,7 +3,7 @@
 
 ## :bulb: Introduction :
 It is a simple react calculator app with a good UI.
-You can find the application **[here](https://dhanrajchaurasia.github.io/calculator/).**
+You can find the application **[here](https://github.com/THEABHIJEETCHAUHAN/Calculator).**
 
 ## :star2: TechStacks Used : 
 - Html5
